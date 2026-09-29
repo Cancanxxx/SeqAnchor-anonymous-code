@@ -108,9 +108,3 @@ pytest
 
 The release was checked by rebuilding both controlled benchmarks, importing every command line entry point, and running the complete included test suite.
 
-## Release boundaries
-
-- The archive contains no experimental outputs or result records.
-- The source specifications were assisted by generative AI and inspected by the authors. The executable simulator, rather than an LLM annotation, supplies the safety and task completion labels.
-- Local model registries and run metadata can contain machine paths. Generate them after downloading this archive and do not commit them to an anonymous repository.
-- No software license is asserted by this package. The authors must select and add the intended repository license before public distribution.

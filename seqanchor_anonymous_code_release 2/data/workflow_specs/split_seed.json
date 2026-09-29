@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0.0",
+  "source": "NIST Randomness Beacon 2.0",
+  "uri": "https://beacon.nist.gov/beacon/2.0/chain/2/pulse/1909668",
+  "timestamp": "2026-08-19T10:50:00.000Z",
+  "outputs": [
+    "9FC46BF8D4FC816CB6F70C2AA3ADE992F05C2133F4ADC7720F205B7EF37859E85892A7FCF61238C81EF77B25281FF3BCD1104FD095B205C895074908F853AD69"
+  ]
+}
